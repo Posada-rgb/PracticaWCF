@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\PRACTICAWCF\PRACTICAWCF\bin\PRACTICAWCF.dll.config
+C:\Users\PC\source\repos\PRACTICAWCF\PRACTICAWCF\bin\PRACTICAWCF.dll
+C:\Users\PC\source\repos\PRACTICAWCF\PRACTICAWCF\bin\PRACTICAWCF.pdb
+C:\Users\PC\source\repos\PRACTICAWCF\PRACTICAWCF\obj\Debug\PRACTICAWCF.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\PRACTICAWCF\PRACTICAWCF\obj\Debug\PRACTICAWCF.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PRACTICAWCF\PRACTICAWCF\obj\Debug\PRACTICAWCF.dll
+C:\Users\PC\source\repos\PRACTICAWCF\PRACTICAWCF\obj\Debug\PRACTICAWCF.pdb
